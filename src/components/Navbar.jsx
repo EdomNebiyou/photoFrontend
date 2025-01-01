@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from 'react';
 import { Link } from 'react-router-dom';
-import Dropdown from './DropDown';
+import Dropdown from './Dropdown';
 
 const Navbar = () => {
   const options =  [
